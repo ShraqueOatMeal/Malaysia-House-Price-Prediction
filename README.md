@@ -9,7 +9,7 @@ Welcome to my Malaysia Housing Market Analysis project! In this Jupyter Notebook
 
 ## Getting Started
 
-1. **Clone the Respository:**
+1. **Clone the Respository:** 'https://github.com/ShraqueOatMeal/Malaysia-House-Price-Prediction.git'
 2. **Open Jupyter Notebook:** Open the project in Jupyter Notebook environment to explore the code and findings.
 3. **Run the Cells:** Execute the notebook cells to obesrve the data preprocessing, model implementation and performance evaluation steps.
 
